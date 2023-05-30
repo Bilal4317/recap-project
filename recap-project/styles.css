@@ -1,0 +1,9 @@
+* {
+  position: fixed;
+  text-align: center;
+}
+
+li {
+  border: 2px solid;
+  padding: 2px 5px 2px 5px;
+}
